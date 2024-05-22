@@ -1,4 +1,4 @@
-# Clinic-Management-System
+# Clinic-Management-System using PHP and MySQL
 Clinic management is an approach to decision-making about all aspects of patient care. 
 OBJECTIVE 
 
